@@ -3,4 +3,4 @@
 - pershe
 - druge
 ## zagolovok2
-![ryba](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Rhodeus_amarus_2008_G1.jpg/800px-Rhodeus_amarus_2008_G1.jpg)
+![ryba](Rhodeus.jpg)
